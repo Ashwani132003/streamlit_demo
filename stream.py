@@ -4,7 +4,7 @@
 
 
 from streamlit_webrtc import webrtc_streamer
-st.title("Web app")
+# st.title("Web app")
 
 webrtc_streamer(key="sample")
 
